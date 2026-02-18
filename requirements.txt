@@ -1,0 +1,12 @@
+# Owner: https://t.me/ITSGOLU_OFFICIAL
+# Created by: ITSGOLU_OFFICIAL
+Flask==2.3.3
+requests==2.31.0
+cloudscraper==1.2.71
+aiohttp==3.9.1
+pytz==2023.3
+urllib3
+gunicorn==21.2.0
+pyTelegramBotAPI==4.14.0
+PyJWT==2.8.0
+mailtm==0.0.81
